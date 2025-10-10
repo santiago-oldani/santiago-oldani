@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer </h3>
 
 - 🌱 My knowledge includes:
-  - Frontend technologies: **Typescript, React, Javascript**
+  - Frontend technologies: **HTML, CSS, Javascript, React, Typescript, Tailwind**
   - Backend technologies: **Python, Fastapi, SQL, Java, SpringBoot,  MongoDB**
   
 
