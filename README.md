@@ -3,7 +3,7 @@
 
 - 🌱 My knowledge includes:
   - Frontend technologies: **Typescript, React, Javascript**
-  - Backend technologies: **Python, Fastapi, SQL, Java**
+  - Backend technologies: **Python, Fastapi, SQL, Java, SpringBoot,  MongoDB**
   
 
 But open to learn any other technology needed :)
