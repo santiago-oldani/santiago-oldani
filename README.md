@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! 👋 Soy Santiago Oldani</h1>
-<h3 align="center">Desarrollador Full-Stack</h3>
+<h1 align="center">Hi! 👋 I'm Santiago Oldani</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  Soy estudiante de la Tecnicatura en Programación en la UTN FRA. Me apasiona el desarrollo de software y la creación de soluciones web integrales. Actualmente me encuentro perfeccionando mis habilidades y siempre estoy dispuesto a afrontar nuevos desafíos para seguir creciendo profesionalmente.
+  I am a Programming student at UTN FRA (Universidad Tecnológica Nacional). I am passionate about software development and creating comprehensive web solutions. I'm currently honing my skills and I am always ready to take on new challenges to keep growing professionally.
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
