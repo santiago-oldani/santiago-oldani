@@ -1,41 +1,148 @@
-<h1 align="center">Hi! 👋 I'm Santiago Oldani</h1>
-<h3 align="center">Full-Stack Developer</h3>
-
-<p align="center">
-  I am a Programming student at UTN FRA (Universidad Tecnológica Nacional). I am passionate about software development and creating comprehensive web solutions. I'm currently honing my skills and I am always ready to take on new challenges to keep growing professionally.
-</p>
-
 <div align="center">
-  <a href="mailto:santioldani08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <h1>Hi there! 👋 I'm Santiago Oldani</h1>
+  
+  <!-- Subtítulo animado -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;University+Technician+in+Programming+(UTN)+%F0%9F%8E%93;JS+%2F+TS+Ecosystem+%26+Python+Backend+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/santioldani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+  <p align="center">
+    📍 <b>Buenos Aires, Argentina</b>
+  </p>
+
+  <!-- Botones de Contacto y Portfolio -->
+  <p align="center">
+    <a href="https://upgrade-portfolio-six.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/santioldani/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:santioldani08@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
-<br/>
+---
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+### 👨‍💻 About Me
+
+I am a **Full-Stack Developer** and a **University Technician in Programming (UTN Graduate)** writing code and building web solutions since 2023. I specialize in developing modern, scalable web applications centered around the **JavaScript/TypeScript ecosystem (React, Angular, Node.js, NestJS)**, while integrating **Python (FastAPI)** and **Java (Spring Boot)** for robust server-side architectures.
+
+* 🎯 Driven by solving complex technical challenges with solid **business logic** and **clean architectural principles**.
+* 💼 Currently working in **IT Support & Infrastructure at Uniqs S.A. (CCEBA)**, managing Windows Server environments and resolving critical IT incidents.
+* 🎵 Co-creator of **Bandify**, a full-stack music metrics platform integrating **OAuth 2.0** and the **Spotify REST API** with React, TypeScript, and PostgreSQL.
+* 🌐 Experienced as a **Freelance Web Developer**, delivering SEO-optimized, modular web solutions for legal and healthcare clients.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+#### 🎨 Frontend
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
+      <br /><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+      <br /><sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br /><sub><b>Angular</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
+      <br /><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
+      <br /><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
+      <br /><sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
+
+#### ⚙️ Backend
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="NestJS" />
+      <br /><sub><b>NestJS</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br /><sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" />
+      <br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br /><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+      <br /><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring Boot" />
+      <br /><sub><b>Spring Boot</b></sub>
+    </td>
+  </tr>
+</table>
+
+#### 🗄️ Databases & Tools
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br /><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+      <br /><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br /><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br /><sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🚀 Featured Highlights
+
+* 🎧 **Bandify (Full-Stack Developer):** Collaborative platform built with React, TypeScript, Tailwind CSS, and PostgreSQL, featuring custom OAuth 2.0 authorization and Spotify REST API integration for user analytics.
+* ⚡ **Freelance Web Solutions:** Designed and deployed high-performance applications, including a modular legal landing page (React & Tailwind CSS) and an SEO-optimized psychology platform currently in production.
+* 🖥️ **IT Infrastructure & Support:** Providing specialized technical support and Windows Server administration at Centro Cultural de España en Buenos Aires (CCEBA) via Uniqs S.A.
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <i>💡 Check out my pinned repositories below or visit my <a href="https://upgrade-portfolio-six.vercel.app">online portfolio</a> to see my projects in action!</i>
 </p>
